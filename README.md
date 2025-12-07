@@ -1,5 +1,5 @@
 # NOXE
-noxe - a series of mini neural networks made primarily in python
+noxe - a series of mini neural networks made primarily in python and Axonscript
 ###
 # noxint
 ###
